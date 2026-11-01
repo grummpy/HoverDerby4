@@ -1,0 +1,12 @@
+{
+  "name": "hoverderby4",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "4-player local hovercraft ring-out derby",
+  "license": "MIT",
+  "scripts": {
+    "start": "python3 server.py",
+    "test": "node --test tests/"
+  }
+}
